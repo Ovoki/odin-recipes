@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: auto 10%;
+    background-color: rgb(48, 40, 40);
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 32px;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+img {
+    width: 80%;
+    height: auto;
+    margin: auto 10%;
+    border: 5px solid black;
+}
+
+h2 {
+    color: white;
+}
+
+p,li {
+    color: orange;
+    font-size: 18px;
+}
